@@ -1,0 +1,15 @@
+/workspaces/unit-4-1-assignment-CondesnsedMilk/classwork/bin/Debug/net8.0/classwork
+/workspaces/unit-4-1-assignment-CondesnsedMilk/classwork/bin/Debug/net8.0/classwork.deps.json
+/workspaces/unit-4-1-assignment-CondesnsedMilk/classwork/bin/Debug/net8.0/classwork.runtimeconfig.json
+/workspaces/unit-4-1-assignment-CondesnsedMilk/classwork/bin/Debug/net8.0/classwork.dll
+/workspaces/unit-4-1-assignment-CondesnsedMilk/classwork/bin/Debug/net8.0/classwork.pdb
+/workspaces/unit-4-1-assignment-CondesnsedMilk/classwork/obj/Debug/net8.0/classwork.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/unit-4-1-assignment-CondesnsedMilk/classwork/obj/Debug/net8.0/classwork.AssemblyInfoInputs.cache
+/workspaces/unit-4-1-assignment-CondesnsedMilk/classwork/obj/Debug/net8.0/classwork.AssemblyInfo.cs
+/workspaces/unit-4-1-assignment-CondesnsedMilk/classwork/obj/Debug/net8.0/classwork.csproj.CoreCompileInputs.cache
+/workspaces/unit-4-1-assignment-CondesnsedMilk/classwork/obj/Debug/net8.0/classwork.sourcelink.json
+/workspaces/unit-4-1-assignment-CondesnsedMilk/classwork/obj/Debug/net8.0/classwork.dll
+/workspaces/unit-4-1-assignment-CondesnsedMilk/classwork/obj/Debug/net8.0/refint/classwork.dll
+/workspaces/unit-4-1-assignment-CondesnsedMilk/classwork/obj/Debug/net8.0/classwork.pdb
+/workspaces/unit-4-1-assignment-CondesnsedMilk/classwork/obj/Debug/net8.0/classwork.genruntimeconfig.cache
+/workspaces/unit-4-1-assignment-CondesnsedMilk/classwork/obj/Debug/net8.0/ref/classwork.dll
