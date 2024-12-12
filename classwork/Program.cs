@@ -1,24 +1,10 @@
-﻿Console.WriteLine("What is your name?");
-string name = Console.ReadLine()!;
-Console.WriteLine("Hello " + name);
-string botName = "Blob";
-if (name == botName || name == "blob")
-{
-    Console.WriteLine("Woah! We have the same name!");
-}
-else
-{
-    Console.WriteLine("I am " + botName);
-}
+﻿using System.Diagnostics.CodeAnalysis;
 
-double x = 0.1f;
-double y = 0.2f;
-double sum = x + y;
-if (sum == 0.3)
-{
-    Console.WriteLine("true!");
-}
-else
-{
-    Console.WriteLine("False.");
-}
+int x = 25;
+int y = 3;
+float sum = Convert.ToSingle(x/y);
+
+Console.WriteLine(x+y);
+Console.WriteLine(x-y);
+Console.WriteLine(x*y);
+Console.WriteLine(sum);
